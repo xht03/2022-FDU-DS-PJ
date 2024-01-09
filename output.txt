@@ -1,0 +1,36 @@
+The direct friend number of User 5 : 13.   The indirect friend number of User 5 : 334.
+The direct friend number of User 321 : 3.   The indirect friend number of User 321 : 344.
+The direct friend number of User 85 : 14.   The indirect friend number of User 85 : 333.
+The direct friend number of User 47 : 2.   The indirect friend number of User 47 : 345.
+The direct friend number of User 96 : 9.   The indirect friend number of User 96 : 338.
+The direct friend number of User 12 : 1.   The indirect friend number of User 12 : 346.
+The direct friend number of User 98 : 49.   The indirect friend number of User 98 : 298.
+The direct friend number of User 485 : 5.   The indirect friend number of User 485 : 241.
+The direct friend number of User 1247 : 24.   The indirect friend number of User 1247 : 1021.
+The direct friend number of User 2458 : 99.   The indirect friend number of User 2458 : 694.
+The direct friend number of User 65 : 12.   The indirect friend number of User 65 : 335.
+
+The distance between User 5 and User 12 : 2.
+The distance between User 15 and User 7 : 2.
+The distance between User 25 and User 9 : 1.
+The distance between User 85 and User 45 : 2.
+The distance between User 32 and User 16 : 2.
+The distance between User 88 and User 77 : 2.
+The distance between User 32 and User 64 : 2.
+The distance between User 1245 and User 2125 : 3.
+The distance between User 2426 and User 1658 : 4.
+The distance between User 34 and User 69 : 2.
+
+The super connecter is : User 107.
+
+The recommend friend of User 5 : 67 136 322.
+The recommend friend of User 12 : 1 2 3.
+The recommend friend of User 65 : 271 271 119.
+The recommend friend of User 987 : 1223 1436 1533.
+The recommend friend of User 564 : 476 549 34.
+The recommend friend of User 147 : 327 154 3.
+The recommend friend of User 2 : 14 41 144.
+The recommend friend of User 4 : 339 2 3.
+The recommend friend of User 6 : 327 154 3.
+The recommend friend of User 1425 : 1427 1766 1332.
+The recommend friend of User 15 : 1 2 3.
